@@ -2,7 +2,7 @@
 
 # 💫 About Me:               
 i am a coder..
-<img align="right" alt="coding" width="400"src="https://github.com/rudrabarad/Gifs>
+<img align="right" alt="coding" width="400"src="https://github.com/rudrabarad/Gifs">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rocking_shreekanth_09)
